@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = romualdo.delain@outlook.com
+	name = Romualdo Delain
